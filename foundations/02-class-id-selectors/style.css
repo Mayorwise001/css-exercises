@@ -1,0 +1,18 @@
+.first{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#unique2{
+    background-color: lightgreen;
+    font-weight: bold;
+}
