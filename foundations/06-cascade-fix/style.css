@@ -12,8 +12,8 @@ body {
   font-size: 14px;
 }
 
-.confirm {
-  background: green;
+.button.confirm {
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
@@ -22,6 +22,7 @@ body {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
+  border: solid 2px black;
 }
 
 .text {
